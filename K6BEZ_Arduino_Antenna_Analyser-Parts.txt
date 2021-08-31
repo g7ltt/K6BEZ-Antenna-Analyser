@@ -1,0 +1,52 @@
+Partlist
+
+Exported from K6BEZ_Arduino_Antenna Analyser.sch at 1/20/15 4:04 PM
+
+EAGLE Version 6.6.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                       Device                      Package        Library    Sheet
+
+C1       100n                        C-US025-025X050             C025-025X050   resistor   1
+C2       100n                        C-US025-025X050             C025-025X050   resistor   1
+C3       22p                         C-US025-025X050             C025-025X050   resistor   1
+C4       22p                         C-US025-025X050             C025-025X050   resistor   1
+C5       100n                        C-US025-025X050             C025-025X050   resistor   1
+C6       10n                         C-US025-025X050             C025-025X050   resistor   1
+C7       10n                         C-US025-025X050             C025-025X050   resistor   1
+C8       10n                         C-US025-025X050             C025-025X050   resistor   1
+C9       10n                         C-US025-025X050             C025-025X050   resistor   1
+C10      100n                        C-US025-025X050             C025-025X050   resistor   1
+C11      1uF                         CPOL-USE2.5-5               E2,5-5         resistor   1
+C12      1uF                         CPOL-USE2.5-5               E2,5-5         resistor   1
+C14      10uF                        CPOL-USE2.5-5               E2,5-5         resistor   1
+CN1                                  DCBARRELPTH                 DCJACK_2MM_PTH adafruit   1
+D1       AA142                       AA112                       DO07           diode      1
+D2       AA142                       AA112                       DO07           diode      1
+D3       1N4004                      1N4004                      DO41-10        diode      1
+IC1      MEGA8-P                     MEGA8-P                     DIL28-3        atmel      1
+IC2      FT232RL                     FT232RL                     SSOP28         ftdichip   1
+IC3      MCP6002P                    MCP602P                     DIL08          linear     1
+IC4      7805T                       7805T                       TO220H         linear     1
+JP1                                  PINHD-1X16                  1X16           pinhead    1
+JP2                                  JP2E                        JP2            jumper     1
+LED1                                 LED3MM                      LED3MM         led        1
+Q1       16MHz                       CRYSTALHC49S                HC49/S         crystal    1
+R1       22k                         R-US_0204/7                 0204/7         rcl        1
+R2       649                         R-US_0204/7                 0204/7         rcl        1
+R3       100k                        R-US_0204/7                 0204/7         rcl        1
+R4       10k                         R-US_0204/7                 0204/7         rcl        1
+R5       51                          R-US_0204/7                 0204/7         rcl        1
+R6       51                          R-US_0204/7                 0204/7         rcl        1
+R7       51                          R-US_0204/7                 0204/7         rcl        1
+R8       10k                         R-US_0204/7                 0204/7         rcl        1
+R9       22k                         R-US_0204/7                 0204/7         rcl        1
+R10      649                         R-US_0204/7                 0204/7         rcl        1
+R11      100k                        R-US_0204/7                 0204/7         rcl        1
+R12      470                         R-US_0204/7                 0204/7         rcl        1
+R13      10K                         TRIM_US-CA6V                CA6V           pot        1
+R14      1K                          R-US_0204/7                 0204/7         rcl        1
+U$1      MODULEFULL                  MODULEFULL                  MODULE         DDS Module 1
+X1       MINI-USB-SHIELD-UX60-MB-5ST MINI-USB-SHIELD-UX60-MB-5ST UX60-MB-5ST    con-hirose 1
+X2       BU-SMA-V                    BU-SMA-V                    BU-SMA-V       con-coax   1
